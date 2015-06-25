@@ -19,3 +19,4 @@ IDのインデックスにPRIMARY AutoIncrementにチェックを入れる
 insert into tablename(num,name,addr,tel)values('0001','佐藤','岩手','019')
 
 編集しました by Kato
+編集を追加しました。 by kato
